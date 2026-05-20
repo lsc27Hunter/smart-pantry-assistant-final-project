@@ -40,28 +40,6 @@ A full-stack web application that helps users reduce food waste and discover rec
 
 ---
 
-## Screenshots
-
-### Pantry Dashboard
-
-![Pantry Screenshot](screenshots/pantry.png)
-
-### Recipe Results
-
-![Recipe Screenshot](screenshots/recipes.png)
-
-### Meal Planner
-
-![Meal Planner Screenshot](screenshots/mealplan.png)
-
----
-
-## Prototype Design
-
-![Prototype](screenshots/prototype.png)
-
----
-
 ## Installation
 
 ### Clone repository
